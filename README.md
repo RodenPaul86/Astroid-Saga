@@ -38,13 +38,6 @@
     </a>
 </div>
 
-## Features
-
-- Ad free.
-- Current stats for different countries.
-- Map with recovered and deceased stats.
-- Health news.
-
 ## Screenshots
 
 <div align="left">
