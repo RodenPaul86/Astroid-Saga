@@ -61,9 +61,9 @@ end
 
 ## Support
 
-I embarked on my journey as an independent developer, and CoVid HQ marked one of my initial ventures as I delved into the realm of Software Development almost 10 years ago as of 2023. Witnessing its remarkable evolution since then has been truly inspiring. Amidst numerous side projects I've undertaken, CoVid HQ has remained my unwavering focal point.
+I embarked on my journey as an independent developer, and Astroid Saga marked one of my initial ventures as I delved into the realm of Software Development almost 10 years ago as of 2023. Witnessing its remarkable evolution since then has been truly inspiring. Amidst numerous side projects I've undertaken, Astroid Saga has remained my unwavering focal point.
 
-As I strive to uphold CoVid HQ with a continuous stream of innovative features, refinements, and meticulous bug fixes, I am genuinely touched by the unwavering support of my incredible community. Your backing would mean the world to me, ensuring that CoVid HQ continues to flourish.
+As I strive to uphold Astroid Saga with a continuous stream of innovative features, refinements, and meticulous bug fixes, I am genuinely touched by the unwavering support of my incredible community. Your backing would mean the world to me, ensuring that Astroid Saga continues to flourish.
 
 <p><a href="https://www.buymeacoffee.com/paulRoden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulRoden" /></a></p><br><br>
 <br/>
@@ -71,4 +71,4 @@ As I strive to uphold CoVid HQ with a continuous stream of innovative features, 
 Thank you!
 
 ## License
-CoVid-HQ is written in (Swift 5) and is distributed under the terms of the [Apache License](https://github.com/RodenPaul86/CoVid-HQ/blob/main/LICENSE) (Version 2.0).
+CoVid-HQ is written in (Swift 5) and is distributed under the terms of the [Apache License](https://github.com/RodenPaul86/Astroid-Saga/blob/main/LICENSE) (Version 2.0).
