@@ -30,7 +30,7 @@
 ## Download
 
 <div align="center">
-    <h4><b>You can get CoVid HQ from the link below!</b></h4>
+    <h4><b>You can get Astroid Saga from one of the links below!</b></h4>
     <a href="https://github.com/RodenPaul86/CoVid-HQ">
         <img src="Images/Badges/get-it-on-github.png" alt="Get it from GitHub" height="80" />
     </a>
