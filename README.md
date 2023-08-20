@@ -71,4 +71,4 @@ As I strive to uphold Astroid Saga with a continuous stream of innovative featur
 Thank you!
 
 ## License
-CoVid-HQ is written in (Swift 5) and is distributed under the terms of the [Apache License](https://github.com/RodenPaul86/Astroid-Saga/blob/main/LICENSE) (Version 2.0).
+Astroid Saga is written in (Swift) and is distributed under the terms of the [Apache License](https://github.com/RodenPaul86/Astroid-Saga/blob/main/LICENSE) (Version 2.0).
