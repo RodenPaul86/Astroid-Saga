@@ -31,7 +31,10 @@
 
 <div align="center">
     <h4><b>You can get Astroid Saga from one of the links below!</b></h4>
-    <a href="https://github.com/RodenPaul86/CoVid-HQ">
+    <a href="github.com/RodenPaul86/Astroid-Saga/releases/tag/2.0.6">
+        <img src="Images/Badges/get-it-on-github.png" alt="Get it from GitHub" height="80" />
+    </a>
+    <a href="github.com/RodenPaul86/Astroid-Saga/releases/tag/2.0.6">
         <img src="Images/Badges/get-it-on-github.png" alt="Get it from GitHub" height="80" />
     </a>
 </div>
