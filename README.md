@@ -39,7 +39,7 @@
 ## Screenshots
 
 <div align="left">
-    <img src="Images/Screenshots/screenshot01.png" alt="Get it from GitHub" width="240" />
+    <img src="Images/IMG_0980.PNG" alt="Get it from GitHub" width="240" />
     </a>    
     <img src="Images/Screenshots/screenshot02.png" alt="Get it from GitHub" width="240" />
     </a>    
