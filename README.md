@@ -47,18 +47,6 @@
     </a>    
 </div>
 
-## Cocoapods
-```ruby
-// Podfile
-target 'Example-App' do
-  use_frameworks!
-  pod 'CourierCore'
-  pod 'CourierMQTT'
-  pod 'CourierProtobuf' #optional
-  pod 'CourierMQTTChuck' #optional
-end
-```
-
 ## Support
 
 I embarked on my journey as an independent developer, and Astroid Saga marked one of my initial ventures as I delved into the realm of Software Development almost 10 years ago as of 2023. Witnessing its remarkable evolution since then has been truly inspiring. Amidst numerous side projects I've undertaken, Astroid Saga has remained my unwavering focal point.
