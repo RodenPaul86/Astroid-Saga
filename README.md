@@ -20,7 +20,6 @@
     •
     <a href="#screenshots">Screenshots</a>
     •    
-    <a href="#support">Cocoapods</a>
     •
     <a href="#support">Support</a>
     •
