@@ -49,9 +49,9 @@
 
 ## Support
 
-I embarked on my journey as an independent developer, and Astroid Saga marked one of my initial ventures as I delved into the realm of Software Development almost 10 years ago as of 2023. Witnessing its remarkable evolution since then has been truly inspiring. Amidst numerous side projects I've undertaken, Astroid Saga has remained my unwavering focal point.
+I embarked on my journey as an independent developer, and Astroid Saga marked one of my initial ventures as I delved into the realm of Software Development almost 10 years ago. Witnessing its remarkable evolution since then has been truly inspiring. Amidst numerous side projects I've undertaken, Astroid Saga has remained my unwavering focal point.
 
-As I strive to uphold Astroid Saga with a continuous stream of innovative features, refinements, and meticulous bug fixes, I am genuinely touched by the unwavering support of my incredible community. Your backing would mean the world to me, ensuring that Astroid Saga continues to flourish.
+As I strive to uphold Astroid Saga with a continuous stream of refinements, and meticulous bug fixes, I am genuinely touched by the unwavering support of my incredible community. Your backing would mean the world to me, ensuring that Astroid Saga continues to flourish.
 
 <p><a href="https://www.buymeacoffee.com/paulRoden"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulRoden" /></a></p><br><br>
 <br/>
