@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="Images/appstore1024.png" alt="icon" width="100" style="border-radius: 25px"/>
+    <img src="ACApp-Icon.png" alt="icon" width="100" style="border-radius: 25px"/>
     <br />
     <b>Astroid Saga</b>
 </h1>
