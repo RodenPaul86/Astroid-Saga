@@ -30,8 +30,8 @@
 <div align="center">
     <h4><b>You can get Astroid Saga from one of the links below!</b></h4>
     <a href="https://apps.apple.com/us/app/astroid-saga/id1205737245">
-        <img src="Images/Badges/Download-on-the-AppStore.svg" alt="Get it on AppStore" height="59" />
-    <p>
+        <img src="Images/Badges/Download-on-the-AppStore.svg" alt="Get it on AppStore" width= "170" height="80" />
+    </a>
     <a href="https://github.com/RodenPaul86/Astroid-Saga/releases/tag/2.0.6">
         <img src="Images/Badges/get-it-on-github.png" alt="Get it from GitHub" height="80" />
 </div>
