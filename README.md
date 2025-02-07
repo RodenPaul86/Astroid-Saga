@@ -54,7 +54,7 @@ I embarked on my journey as an independent developer, and Astroid Saga marked on
 
 As I strive to uphold Astroid Saga with a continuous stream of refinements, and meticulous bug fixes, I am genuinely touched by the unwavering support of my incredible community. Your backing would mean the world to me, ensuring that Astroid Saga continues to flourish.
 
-<p><a href="(https://buymeacoffee.com/paulrodenjr)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulRoden" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/paulrodenjr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulRoden" /></a></p><br><br>
 <br/>
 
 Thank you!
