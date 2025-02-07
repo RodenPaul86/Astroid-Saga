@@ -34,6 +34,7 @@
     </a>
     <a href="https://github.com/RodenPaul86/Astroid-Saga/releases/tag/2.0.6">
         <img src="Images/Badges/get-it-on-github.png" alt="Get it from GitHub" height="80" />
+    </a>
 </div>
 
 ## Screenshots
