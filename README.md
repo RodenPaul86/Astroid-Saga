@@ -60,4 +60,4 @@ As I strive to uphold Astroid Saga with a continuous stream of refinements, and 
 Thank you!
 
 ## License
-Astroid Saga is written in (Swift) and is distributed under the terms of the [Apache License](https://github.com/RodenPaul86/Astroid-Saga/blob/main/LICENSE) (Version 2.0).
+Astroid Saga is written in (Objective-C) and (Swift), it is distributed under the terms of the [Apache License](https://github.com/RodenPaul86/Astroid-Saga/blob/main/LICENSE) (Version 2.0).
